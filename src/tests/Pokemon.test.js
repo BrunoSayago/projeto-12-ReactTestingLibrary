@@ -66,6 +66,7 @@ describe('Requisito 6 - Pokemon', () => {
     });
 
     expect(star).toBeInTheDocument();
+
     expect(star).toHaveAttribute('src', '/star-icon.svg');
     expect(star).toHaveAttribute('alt', 'Caterpie is marked as favorite');
   });
