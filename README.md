@@ -19,7 +19,7 @@ React Testing Library (Biblioteca de Testes do React)
 O objetivo deste projeto foi desenvolver testes para uma aplicação (feita com React) já desenvolvida pela Trybe, utilizando Jest e a biblioteca React Testing Library. Dentre as habilidades utilizadas, destacam-se: utilização de seletores (queries) da biblioyteca de testes em testes automatizados; simulação de eventos, teste de fluxos lógicos assíncronos, e teste de inputs. Ao todo, foram testados 7 componentes da aplicação, separadamente.
 
 <br/>
-A aplicação pode ser visualizada normalmente, seguindo as instruções que estão ao final deste README, entretanto, é  **importante**  ressaltar que ela não foi desenvolvida por mim neste projeto, e sim pela Trybe. Eu desenvolvi somente os códigos de testes, presentes no diretório "/src/tests" da raíz do projeto. Por esse motivo, não serão expostas capturas de tela da aplicação.
+A aplicação pode ser visualizada normalmente, seguindo as instruções que estão ao final deste README, entretanto, é  <strong>importante</strong>  ressaltar que ela não foi desenvolvida por mim neste projeto, e sim pela Trybe. Eu desenvolvi somente os códigos de testes, presentes no diretório "/src/tests" da raíz do projeto. Por esse motivo, não serão expostas capturas de tela da aplicação.
 <br/>
 
 ## Instruções para visualização
